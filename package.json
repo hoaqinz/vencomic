@@ -1,0 +1,14 @@
+{
+  "name": "vltruyen-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd vltruyen && npm run dev",
+    "build": "cd vltruyen && npm run build",
+    "start": "cd vltruyen && npm run start",
+    "lint": "cd vltruyen && npm run lint"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
